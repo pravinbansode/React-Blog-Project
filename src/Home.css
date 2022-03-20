@@ -1,0 +1,21 @@
+img{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.images{
+    display: flex;
+}
+.fitness{
+    z-index: 5;
+    position: relative;
+    left: -400px;
+    top: 200px;
+    font-size: 30px;
+    height: 50px;
+    font-weight: 500px;
+}
+.fitness1{
+    position: relative;
+    right: 10%;
+}
